@@ -1,5 +1,0 @@
-    jQuery("body.single-resources #header-outer").attr("data-transparent-header", "true");
-    jQuery("body.single-resources #header-outer").attr("data-remove-border", "true");
-    jQuery("body.single-resources #header-outer").addClass("transparent");
-
-    jQuery("body.single-resources #header-space").remove();
