@@ -1,0 +1,4 @@
+if (jQuery('body').hasClass('page-id-3')) {
+        jQuery('.default-logo').attr('src', '/wp-content/uploads/2018/10/CM-Logo-Color-01.png');
+        jQuery('.default-logo').attr('srcset', '/wp-content/uploads/2018/10/CM-Logo-Color-01.png');
+}
